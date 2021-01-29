@@ -1,6 +1,6 @@
 # Flappy-Bird-Alarm
 
-This is the final project I completed for the Google-sponsored Computer Science Computering INnitiative (CSSI). I collaborated with another team member: 
+This is the final project I completed for the Google-sponsored Computer Science Computering INnitiative (CSSI). I collaborated with another team member: @ckayn4
 
 We used the p5 javascript library to build an alarm that initiates the Flappy Bird game once it reaches the time input. The user can utilize this to stay awake and create awareness after the alarm has woken them up.
 
